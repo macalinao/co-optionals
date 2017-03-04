@@ -1,0 +1,15 @@
+{
+  "name": "co-optionals",
+  "version": "0.1.0",
+  "description": "Optional types compatible with co.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "tape": "^4.6.3"
+  }
+}
